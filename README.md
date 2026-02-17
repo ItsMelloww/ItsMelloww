@@ -1,16 +1,17 @@
-## Hi there 👋
+## __Hi there 👋, my name is Mellow__
 
-<!--
-**ItsMelloww/ItsMelloww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## __🙋‍♂️ About Me__
+I'm from the United Kingdom, currently in the GMT Time Zone 🌍. I enjoy working in Python and Java Script. When I'm not working on my server or developing, I can be found having fun with friends 👥, lifting weights 💪, and spending time with family ❤️.
 
-Here are some ideas to get you started:
+## __🖥️ I'm currently working on__
+- Developing for Minecraft Servers
+- Running my own public SMP for Minecraft
+- Creating my own Discord bot
+- Coding for my own Java Plugins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## __🌹 I'm currently learning__
+- To improve my skills when it comes to coding languages
+
+## __📫How to reach me__
+- Discord
+- Email
